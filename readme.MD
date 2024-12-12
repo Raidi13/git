@@ -1,3 +1,6 @@
 # Birayani
 
-*  Plani Basmith Rice
+## Ingredients:
+
+* Plani Basmith Rice
+* add birayani masala
