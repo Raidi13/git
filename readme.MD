@@ -17,3 +17,8 @@
 * marinate the prawns with spices and other ingredients
 * cook the rice till 80% cocked
 * then we added the rice on the mutton and added the ghee and close the lid for 25mins
+
+
+revert:- if delete and u want to undo and for every commit it will creat new commit
+git revert commit id
+
