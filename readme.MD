@@ -1,4 +1,3 @@
-# Birayani
 
 ## Ingredients:
 
